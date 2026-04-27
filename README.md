@@ -1,4 +1,4 @@
-#🎵 SoundScan — Hybrid CNN AI Music Detector
+# 🎵 SoundScan — Hybrid CNN AI Music Detector
 
 > A thesis project by **[Prince Ken Xin Calimlim]** & **[Vince D. Campos]**  
 > Bachelor of Science in Computer Science | [NEW ERA UNIVERSITY] | [2026]
