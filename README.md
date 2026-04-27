@@ -1,7 +1,7 @@
 # Hybrid-CNN-Transformer-for-AI-Music-Detection# 🎵 SoundScan — Hybrid CNN AI Music Detector
 
-> A thesis project by **[Your Name]** & **[Partner's Name]**  
-> Bachelor of Science in Computer Science | [Your University] | [Year]
+> A thesis project by **[Prince Ken Xin Calimlim]** & **[Vince D. Campos]**  
+> Bachelor of Science in Computer Science | [NEW ERA UNIVERSITY] | [2026]
 
 ---
 
@@ -153,10 +153,10 @@ This project was developed as a thesis requirement for the degree of **Bachelor 
 
 | Name | Role |
 |---|---|
-| **[Your Full Name]** | [Your Role — e.g., Model Architecture & Backend] |
-| **[Partner's Full Name]** | [Partner's Role — e.g., Frontend & Acoustic Feature Engineering] |
+| **[Prince Ken Xin Calimlim]** | [Your Role — e.g., Model Architecture & Backend] |
+| **[Vince D. Campos]** | [Partner's Role — e.g., Frontend & Acoustic Feature Engineering] |
 
-> 📧 [your.email@university.edu] · [partner.email@university.edu]
+> 📧 [prince.kenxincalimlim@neu.edu.ph] · [vince.campos@neu.edu.ph]
 
 ---
 
@@ -166,4 +166,4 @@ This project is developed for academic purposes. All rights reserved by the auth
 
 ---
 
-*SoundScan — Hybrid CNN AI Music Detection · Thesis Project · [Year]*
+*SoundScan — Hybrid CNN AI Music Detection · Thesis Project · [2026]*
