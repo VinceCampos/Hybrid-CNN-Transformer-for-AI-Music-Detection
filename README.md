@@ -16,7 +16,7 @@ The web interface (**SoundScan**) lets users upload audio files and receive a re
 - ✅ AI vs. Human probability score
 - 🎸 Instrument detection
 - 🎼 Genre classification (GTZAN + Discogs)
-- 🧠 Explainable AI (XAI) via Grad-CAM and LIME
+- 🧠 Explainable AI (XAI) via Grad-CAM
 - 📊 Acoustic deep analysis per segment
 
 ---
