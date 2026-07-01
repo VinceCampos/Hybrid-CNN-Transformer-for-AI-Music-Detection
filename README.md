@@ -137,12 +137,13 @@ Upload any audio file (MP3, WAV, FLAC, OGG, M4A, or AAC) and click **Analyze** t
 ## 📁 Project Structure
 
 ```
-hybrid-cnn-soundscan/
-├── app.py                   # Flask backend + HybridASTDetector model
+Prototype/
+├── reports/                 # Stores generated detection reports
+├── app.py                   # Flask backend
+├── how_to_run.txt           # Instructions for running the project
 ├── index.html               # SoundScan web frontend
-├── best_model.pth           # Trained model weights (not included in repo)
-├── converted_wavs/          # Auto-created: stores converted audio files
-└── misclassification_reports.jsonl  # Auto-created: user feedback logs
+├── model.py                 # Hybrid CNN-Transformer model definition
+└── requirements.txt         # Python dependencies
 ```
 
 ---
