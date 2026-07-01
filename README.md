@@ -119,7 +119,7 @@ python app.py
 You should see:
 
 ```
-* Running on http://0.0.0.0:5000
+* Running on [http://192.168.1.19:5000]
 ```
 
 ### 7. Open the Frontend
