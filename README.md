@@ -153,8 +153,8 @@ This project was developed as a thesis requirement for the degree of **Bachelor 
 
 | Name | Role |
 |---|---|
-| **[Prince Ken Xin Calimlim]** | [Your Role — e.g., Model Architecture & Backend] |
-| **[Vince D. Campos]** | [Partner's Role — e.g., Frontend & Acoustic Feature Engineering] |
+| **[Prince Ken Xin Calimlim]** | [Researcher — e.g., Model Architecture & Backend] |
+| **[Vince D. Campos]** | [Researcher — e.g., Frontend & Acoustic Feature Engineering] |
 
 > 📧 [prince.kenxincalimlim@neu.edu.ph] · [vince.campos@neu.edu.ph]
 
